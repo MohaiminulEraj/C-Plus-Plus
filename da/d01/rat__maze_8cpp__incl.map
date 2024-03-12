@@ -1,6 +1,9 @@
 <map id="backtracking/rat_maze.cpp" name="backtracking/rat_maze.cpp">
-<area shape="rect" id="node1" title="Implements &lt;a href=&quot;https://www.codesdope.com/blog/article/backtracking&#45;to&#45; solve&#45;a&#45;rat&#45;in&#45;a&#45;maze&#45;c&#45;j..." alt="" coords="24,5,203,32"/>
-<area shape="rect" id="node2" title=" " alt="" coords="5,80,56,107"/>
-<area shape="rect" id="node3" title=" " alt="" coords="81,80,146,107"/>
-<area shape="rect" id="node4" title=" " alt="" coords="171,80,243,107"/>
+<area shape="rect" id="Node000001" title="Implements Rat in a Maze algorithm." alt="" coords="23,5,201,31"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,79,56,105"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="100,34,57,71,54,67,96,30"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="80,79,144,105"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="115,31,115,63,109,63,109,31"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="168,79,240,105"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="129,29,178,67,175,72,126,34"/>
 </map>
